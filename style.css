@@ -1,0 +1,189 @@
+html{
+    height: 100%;
+}
+.Wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+   
+}
+
+header{
+    background-color:rgba(0, 0, 0, 0.014);
+    text-align: center;
+  
+    height:118px;
+}
+
+nav{
+    background-color:rgba(0, 0, 0, 0.301);
+
+    text-align: center;   
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 40px;
+    color:white;
+    
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+main{
+    
+    height:300px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 240px;
+    padding-right: 240px;
+   
+}
+a{
+    color: white;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.308);
+    height:30px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+  
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+    
+
+}
+
+body{
+    background-color: gray;
+    background-image: url(images/pexels-valeria-boltneva-1199959.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+nav a{
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+}
+section{
+    
+    text-align: center;
+}
+.About{
+    width: 1024;
+    padding-left: 240px;
+    padding-right: 240px;
+    color: white;
+}
+
+.gif{
+    float:right;
+    width: 200px;
+    height: 200px;
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .dropdown-content a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+  }
+  
+
+
+
+
+
+    
+
+    
+
+
+    
+    
+
+    
+
+.b1{
+    
+    margin-left: 240px;
+   
+    width:600px;
+}
+
+.c1{
+  margin-right: 240px;
+  
+  
+  float:right;
+}
+
+.c2{
+    margin-left: 240px;
+    
+    }
+
+.s1{
+    margin-right: 240px;
+    float:right;
+    
+}  
+.w1{
+    margin-left: 240px;
+    
+    } 
+    
+.Menu-header{
+    margin-left: 240px;
+
+}  
+
+
+
+  
+
+
+
+
+  
+  
+
+  
